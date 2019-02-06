@@ -1,0 +1,75 @@
+Started 
+Heap handle: 012A0000
+start process C:\Users\Dominik\Desktop\Aplikacija\AplikacijaNo2.Exe
+Command line :> "C:\Program Files (x86)\SoftVelocity\Clarion8\bin\Cladb.exe" -s Release "C:\Users\Dominik\Desktop\Aplikacija\AplikacijaNo2.Exe" 
+Command line :> "C:\Users\Dominik\Desktop\Aplikacija\AplikacijaNo2.Exe" 
+Redirection file :> 
+CREATE_PROCESS_DEBUG_EVENT  ! No image name found
+g.debug_name C:\Users\Dominik\Desktop\Aplikacija\AplikacijaNo2.Exe
+BaseOfImage                00400000
+CREATE_PROCESS_DEBUG_EVENT: process main thread tid=000008C0
+thread handle=000002C0
+ntdll.dll Loaded at: 778B0000
+No debug information
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 00280000
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 75100000
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 00280000
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 00280000
+KERNEL32.dll Loaded at: 75100000
+No debug information
+KERNELBASE.dll Loaded at: 76D40000
+No debug information
+ClaASC.dll Loaded at: 007E0000
+No debug information
+ClaDOS.dll Loaded at: 007C0000
+No debug information
+ClaRUN.dll Loaded at: 01000000
+WslDb$$NotifyDebugger 010CF224
+ClaTPS.dll Loaded at: 00790000
+No debug information
+COMDLG32.dll Loaded at: 76E20000
+No debug information
+USER32.dll Loaded at: 757A0000
+No debug information
+ADVAPI32.dll Loaded at: 75A10000
+No debug information
+COMCTL32.dll Loaded at: 71E50000
+No debug information
+GDI32.dll Loaded at: 75900000
+No debug information
+MPR.dll Loaded at: 72780000
+No debug information
+ole32.dll Loaded at: 772E0000
+No debug information
+OLEAUT32.dll Loaded at: 775C0000
+No debug information
+oledlg.dll Loaded at: 63990000
+No debug information
+SHELL32.dll Loaded at: 75A90000
+No debug information
+WINSPOOL.DRV Loaded at: 6C750000
+No debug information
+msvcrt.dll Loaded at: 776C0000
+No debug information
+SHLWAPI.dll Loaded at: 77790000
+No debug information
+SECHOST.dll Loaded at: 75750000
+No debug information
+RPCRT4.dll Loaded at: 76EE0000
+No debug information
+combase.dll Loaded at: 75240000
+No debug information
+SspiCli.dll Loaded at: 750B0000
+No debug information
+SHCORE.dll Loaded at: 72900000
+No debug information
+CRYPTBASE.dll Loaded at: 750A0000
+No debug information
+bcryptPrimitives.dll Loaded at: 75040000
+No debug information
+IMM32.dll Loaded at: 750D0000
+No debug information
+MSCTF.dll Loaded at: 77410000
+No debug information
+MSIMG32.dll Loaded at: 639F0000
+No debug information
